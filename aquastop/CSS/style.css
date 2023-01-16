@@ -30,7 +30,7 @@ html{
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 40px 10px; 
+  padding: 20px 10px; 
 }
 .header__logo {
   width: 150px;
@@ -165,7 +165,7 @@ html{
 }
 .main__container {
   background-image: url(../img/street-690826_1281.jpg);
-  background-size: 97%;
+  background-size: cover;
 }
 .main__img {
   background-color: rgba(71, 86, 189, 0.85);
